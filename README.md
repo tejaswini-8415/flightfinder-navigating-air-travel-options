@@ -1,6 +1,7 @@
 # flightfinder-navigating-air-travel-options
 
 This Project contains client and server folders
+
 To Run the project from client side and server side install the Node Modules using the command
 NPM Install-it will download all the installations from the application
 To Run the project from client side type the command
